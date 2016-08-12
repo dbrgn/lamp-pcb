@@ -1,0 +1,7 @@
+# PCB
+pcb/output/
+*-bak
+*.bak
+*-cache.lib
+_autosave-*
+*wings~
